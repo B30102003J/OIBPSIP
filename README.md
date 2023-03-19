@@ -1,2 +1,2 @@
 # OIBPSIP
-all oasis infobyte project work
+Web development & Designing task 1 is completed
